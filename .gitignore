@@ -1,0 +1,12 @@
+#Files
+.config
+
+#Directory
+dbt_scripts/transform_predictit/analyses/*
+dbt_scripts/transform_predictit/logs/*
+dbt_scripts/transform_predictit/macros/*
+dbt_scripts/transform_predictit/seeds/*
+dbt_scripts/transform_predictit/snapshots/*
+dbt_scripts/transform_predictit/target/*
+dbt_scripts/transform_predictit/tests/*
+dbt_scripts/transform_predictit/dbt_project.yml

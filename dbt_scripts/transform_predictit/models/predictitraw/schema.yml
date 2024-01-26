@@ -1,0 +1,8 @@
+version : 2
+
+sources:
+  - name: predictitraw
+    database: predictdbraw
+    schema: public
+    tables:
+      - name: predictraw
