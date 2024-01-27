@@ -1,6 +1,6 @@
 ![Flow Diagram](images/flow.png)
 
-A data pipeline to facilitate data extraction from predictit to the storage in a postgres database.
+A data pipeline to facilitate data extraction from predictit website to the storage in a postgres database.
 
 The data is extracted using predictit API and the raw data is stored in a blob storage.
 
