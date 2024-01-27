@@ -10,3 +10,4 @@ dbt_scripts/transform_predictit/snapshots/*
 dbt_scripts/transform_predictit/target/*
 dbt_scripts/transform_predictit/tests/*
 dbt_scripts/transform_predictit/dbt_project.yml
+images/*
